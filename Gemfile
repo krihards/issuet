@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-ruby '2.1.0'
 
 gem 'rails', '4.0.2'
 gem 'pg', '~> 0.17'
@@ -14,6 +13,7 @@ gem 'turbolinks', '~> 2.2'
 gem 'jbuilder', '~> 1.2'
 
 gem 'devise', '~> 3.2'
+gem 'devise_cas_authenticatable'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'redcarpet', '~> 3.0'
 
